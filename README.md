@@ -1,34 +1,55 @@
+<p align="center">
+<img src="https://img.shields.io/github/languages/top/TT-Tutorials/GANG-Nuker?color=6d00c1&label-style=flat-square" </a>
+</p>
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=QqLqglDPNCE">TOKEN GENERATOR SHOWCASE</a>
+
+ 
+</p>
+<p align="center">
+<a href="https://github.com/TT-Tutorials/GANG-Nuker/releases/download/v1.0.0/GANG-Nuker.zip">Fast Download</a> ㅤ•ㅤ
+<a href="https://discord.gg/F5eFWm2puM">Discord</a> ㅤ•ㅤ
+<a href="https://www.youtube.com/watch?v=nVkysvMVk-M">Setup Tutorial Video</a>
+</p>
+</p>
+<p align="center">
+<a href="https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe">Python v3.10</a>ㅤㅤ 
+<a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe">Python v3.9</a>
+</p>
+<p align="center">
+PREMIUM VERSION:
+<a href="https://gangnuker.org/">WEBSITE</a>
+</p>
+ 
+---
+![image](https://user-images.githubusercontent.com/94531396/171850124-c9800302-5bbc-4032-9509-a51e56228374.png)
+![image](https://user-images.githubusercontent.com/94531396/171852766-688a51b4-957f-44a3-978b-c036c52a01bb.png)
 
 
+<p align="center"> 
+  <kbd>
+<img src="https://media.discordapp.net/attachments/1105062508781387786/1113971492435267614/image.png?width=1330&height=662"></img>
+  </kbd>
+</p>
 
+### Settings:
+- [x] - **Windows 10 / 11**
+- [x] - **Download Python:** [v3.10](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe) **or** [v3.9](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe)
 
+- [x] - **100% Safe!**
+- [x] - **Fequently Updating**
+- [x] - **Might Have Some Bugs**
+- [x] - **Python Provided**
 
-![image](https://github.com/user-attachments/assets/fff3c6fd-483c-4556-b8ed-458e49c1cbf4)
+> **WARNING:** Many people have been selling/distributing of GANG-Nuker!
 
-![image](https://github.com/user-attachments/assets/f13d24bc-718e-48f7-9c23-de1c1719678e)
+> **DO NOT** Installing GANG-Nuker From Anyother Place Than This Page, Expect it be **Hacked/Scammed.**
 
+## Installation
 
-
-
-Settings:
- - Windows 10 / 11
-
- - Download Python: v3.10 or v3.9
-
- - 100% Safe!
-
- - Fequently Updating
-
- - Might Have Some Bugs
-
- - Python Provided
-
-WARNING: Many people have been selling/distributing of GANG-Nuker!
-
-DO NOT Installing GANG-Nuker From Anyother Place Than This Page, Expect it be Hacked/Scammed.
-
-Installation
-Source Code Version (More complicated but less buggy)
+#### Source Code Version (More complicated but less buggy)
+```sh-session
 Download GANG-Nuker.zip
 Extract File
 Tap "Install.bat" in GANG Folder
@@ -37,12 +58,22 @@ Enjoy!
 
 NOTE: When Opening GANG-Nuker Just Tap "start.bat" to Open Everytime!
 NOTE: Make sure you have Python 3.9+ and Added to Path.
-Compiled Version (Easier but more buggy)
+```
+
+#### Compiled Version (Easier but more buggy)
+```sh-session
 Download: https://github.com/TT-Tutorials/GANG-Nuker/releases
 Extract File
 Download the latest release (GANG-Nuker.zip) and Extract The Executable
 Launch Program and Enjoy!
-💻〢Proxie Supoort Example:
+```
+
+---
+
+
+### <a id="code-example"></a>💻〢Proxie Supoort Example:
+
+```py
     def fetchProxies(url, custom_regex):
         global proxylist
         try:
@@ -92,7 +123,10 @@ Launch Program and Enjoy!
             for i in range(random.randint(7, 10)):
                 f.write(f"{proxy}\n")
     execution_time = (time.time() - startTime)
-💻〢Auto Download Modules:
+```
+### <a id="code-example"></a>💻〢Auto Download Modules:
+
+```py
 import os 
 import threading
 
@@ -107,3 +141,5 @@ try:
 except:
     os.system("pip install EXAMPLE v2")
     import EXAMPLE v2
+```
+
